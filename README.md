@@ -4,7 +4,7 @@ This project analyzes a car-insurance dataset to find the **single most predicti
 
 ---
 
-## 🔎 Steps Performed
+## Steps Performed
 1. **Load & Clean Data**  
    - Reads `car_insurance.csv`  
    - Fills missing numeric values with column means  
